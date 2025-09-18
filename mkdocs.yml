@@ -23,8 +23,9 @@ theme:
     text: Lora
   
   icon:
-    logo: material/weather-moonset
-    favicon: material/shield-moon
+    logo: material/shield-moon
+    # logo: material/weather-moonset
+    # favicon: material/shield-moon
 
   features:
     - navigation.tabs
@@ -42,6 +43,21 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
 
 plugins:
   - search
