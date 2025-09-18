@@ -22,8 +22,8 @@ theme:
   font:
     text: Lora
   
-  logo: assets/hearth_logo.png
-  favicon: assets/hearth_logo.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
 
   features:
     - navigation.tabs
