@@ -26,7 +26,7 @@ theme:
     logo: material/shield-moon
   
   # this just doesn't work :(
-  # favicon: assets/logo_small.png
+  favicon: images/favicon.png
 
   features:
     - navigation.tabs
