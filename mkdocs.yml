@@ -22,8 +22,8 @@ theme:
   font:
     text: Lora
   
-  logo: assets/logo_small.png
-  favicon: assets/logo_small.png
+  logo: material/weather-moonset
+  favicon: material/shield-moon
 
   features:
     - navigation.tabs
