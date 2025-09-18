@@ -1,0 +1,48 @@
+site_name: Hearth Encyclopedia
+site_url: https://mattlock0.github.io/
+site_dir: public
+docs_dir: ./wiki
+
+theme:
+  name: material
+  
+  palette:
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    
+    - scheme: default
+      primary: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  
+  font:
+    text: Lora
+  
+  logo: assets/hearth_logo.png
+  favicon: assets/hearth_logo.png
+
+  features:
+    - navigation.tabs
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tasklist
+  - pymdownx.emoji
+  - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - roamlinks
+  # - tooltipster-links

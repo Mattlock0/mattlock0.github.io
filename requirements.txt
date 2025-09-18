@@ -1,0 +1,15 @@
+# Documentation static site generator & deployment tool
+mkdocs>=1.1.2
+
+# Wikilinks support
+mkdocs-roamlinks-plugin>=0.1.3
+
+# Tooltips support (sadly is out of date)
+# mkdocs-tooltipster-links-plugin >= 0.1.0
+
+# Needed pymdown
+pymdown-extensions >=10.16.1
+
+# Install theme
+# mkdocs-moonstone
+mkdocs-material>=8.1.7
