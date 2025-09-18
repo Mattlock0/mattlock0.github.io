@@ -12,9 +12,10 @@ tags:
 ## Physical Features
 Replytes are a unique race of shapeshifters that change based on the deaths of their Connections. When born, Replytes have dark skin, orange eyes, and slender features. But when someone close to them dies, the [[Splinters]] embedded within them have a profound effect on their appearance and mind.
 
-Adults can withhold this process and choose to stop themselves from being affected, but they cannot *force* a physical change. #Secret
+Adults can withhold this process and choose to stop themselves from being affected, but they cannot *force* a physical change.
 
 The sorts of things that can change based on Splinters (organized from easiest to hardest) are:
+
 - Eye color/hair color
 - Skin tone
 - Eye/ear/eyebrow/nose/mouth shape
