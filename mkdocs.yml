@@ -25,7 +25,8 @@ theme:
   icon:
     logo: material/shield-moon
   
-  favicon: "https://github.com/Mattlock0/mattlock0.github.io/blob/master/docs/assets/logo_small.png"
+  # this just doesn't work :(
+  # favicon: assets/logo_small.png
 
   features:
     - navigation.tabs
