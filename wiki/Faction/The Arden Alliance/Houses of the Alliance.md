@@ -21,19 +21,22 @@ Houses can lose pure Ages if they get into a scandal—and more specifically, wh
 A group of the High Houses constructed to settle disputes between the Houses that the [[Xander Fulgard|Lord Regent]] or [[Knights]] cannot (or should not) handle. They can (and have, multiple times) be bribed, and Houses with higher Ages literally have more sway when it comes to voting. As the Closed Chamber have delegates with at least 10 Ages, each one’s voting power is decreased by 10.
 ### The Common Chamber
 Any House, guild, or business not Tenth-Age or above is represented in the Common Chamber. Each of those listed above is allowed one delegate of their choosing. In the Common Chamber, they are discuss matters of the kingdom not proprietary or critical enough for the Closed Chamber of Houses to handle.
-### Gaining Reputation
+### Elevation
 A House gains one Age every generation it is established in Eldenguard (with a sanctioned Hold) and is lead by a Vein. While the Elevation of Houses is a tradition discussed by the Chamber every five years, they have (mostly) strict rules to stop bias.
 
 One way to grow one’s Age early is through the Knights. By representation, a Knight can work for other Houses, doing good in their name, for them to give the Knight’s original House an Age in recompense, showing fealty to the nobility and Eldenguard as a whole. There must be a five-Age different for a Knight to perform representation, and for that Knight to awarded an Age they must have served under the House for at least a year.
 
-Usually, non-magical children are pushed into the Knights (full of contempt and shame), which is why they end up being so corrupt. Many Knights will use their position to spite their magical siblings. Other Rootless children and “disposed of” to cull the weak and keep a bloodline “pure”.
+Usually, non-magical children are pushed into the Knights (full of contempt and shame), which is why they end up being so corrupt. Many Knights will use their position to spite their magical siblings. Other Rootless children are “disposed of” to cull the weak and keep a bloodline “pure”.
 ### Losing Reputation
-If a leading member of your House is found doing, or accomplishing any of the following, the House can lose from one to as many as three Ages: (or may not be given an Age during Elevation)
+If a leading member of your House is found doing, or accomplishing any of the following, the House can lose from one to as many as three Ages: (or may not be given an Age during [[#Elevation]])
+
 - Be caught in a scandal (the Chamber decides how many pegs it knocks you down)
 - Breaking the law (generally, “law” and “breaking” can be debated)
+	- Murdering another House leader or having them assassinated
+	- Undermining another House’s operations
+	- Taking or giving bribes
 - Social taboos (marrying an undrough (impure), openly having undrough slaves, )
 - Being barren (haha sucks loser)
-- Murdering another House leader
 ## House Trade
 All Houses have a foothold in some trade, whether it be import or export, and produce such a trade to distribute it to the other countries and areas of Eldenguard. The types are listed below.
 

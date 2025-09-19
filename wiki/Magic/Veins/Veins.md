@@ -27,8 +27,6 @@ Think of Veins as an extension of your body. It requires a level of strength to 
 The awakening point for a Vein. When under a moment which will determine their [[Fate]], persons with the Vein strand are presented with two choices by the Tree: Swear to change themselves and grow; or temper themselves and push through adversity. Their decision chooses which style of Vein they receive: Control or Founding, respectively.
 
 This creates an Oath to the Tree, causing their Fates to be intertwined. A Vein feels a constant draw to the Axis Tree. During winter when the Axis Tree’s power dwindles, they become sluggish and weak as their Vis is stripped away to keep the Tree alive.
-### A Third Choice
-Unknown to most, there is a third Choice available to Veins. They can reject the Tree’s proposal entirely. Their Vis grows pure and multiplies within them, making them stronger and faster. These people are not bound by the change in the seasons but are at a much greater risk to expend all their Vis at once, as they have no way of regenerating it with Catalysts. Such Vis is translucent and colorless. They can still make Anchors to objects, but they cannot Found or Control them.
 ## Limitations
 A Vein can only lift what their muscles are capable of. Most Veins just use the muscles in their arms, but you can use all the muscles in your body. There is some scaling for Breath, Radiant, and Wave but the rest follow it directly.
 
@@ -51,8 +49,6 @@ All Veins work in conjunction with the brain. The extent of their powers—and w
 A Vein will reach a point where they have overextended their Veins, all the walls between them and their body grow weak. Overusing Veins can shorten lives, cause you to leak Vis, and stain your vessels the color of your Ideal.
 
 It is widely understood that once the staining reaches your eyes or heart, your body will give one final push, then wither entirely, leaving you stunted or dead. Permanent effects of Withering include insatiable hunger/thirst, dulled/lost senses, migraines, insanity, atrophied muscles, thinning skin, heart palpitations, limbs that stop working, stunted growth, and inconsistent healing.
-## Hybrid Veins
-Through human experimentation, people have created artificial Hybrid Veins. As Vein abilities are bound to the heart, a heart must be extracted from one Vein and implanted in another to be used. As these are strictly artificial and require killing a person to achieve, they are viewed as taboo and there are only a few successful cases in existence. Such successful cases have use of _two_ Vein abilities simultaneously, which is both dangerous and extremely powerful, while it also corrupts their spirit with clashing Ideals.
 ## The Rootless
 There are a group of people whose parents did not have any attunement to a Vein, or some mutation caused them not to inherit any. These are called the Rootless, and when their Vis is aggravated, their veins glow a dull red. They have no power and cannot manipulate the flow of Vis within them. There is no way for them to gain a Vein, save for ripping out another’s Veined heart and veins and implanting them in their own body. A scorned group of people thought to have little use to society.
 ## Thoughts
