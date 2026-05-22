@@ -65,23 +65,14 @@ class SyncStats:
     skipped_by_frontmatter: int = 0
 
 
-def tag_pattern(tag: str) -> re.Pattern[str]:
-    """Create a case-sensitive whole-word-ish matcher for a markdown tag."""
-    return re.compile(rf"(?<![\w-]){re.escape(tag)}(?![\w-])")
-
-
 def markdown_text_contains_tag(markdown_text: str, tag: str) -> bool:
-    return tag_pattern(tag).search(markdown_text) is not None
-
-
-def normalize_frontmatter_tag(value: Any) -> str:
-    return str(value).strip()
+    return re.compile(rf"(?<![\w-]){re.escape(tag)}(?![\w-])").search(markdown_text) is not None
 
 
 def frontmatter_value_matches_tag(value: Any, tag: str) -> bool:
     """Return True when a frontmatter tag value matches the configured tag."""
     if isinstance(value, str):
-        value = normalize_frontmatter_tag(value)
+        value = str(value).strip()
         if value == tag or markdown_text_contains_tag(value, tag):
             return True
         return ALLOW_BARE_FRONTMATTER_TAGS and value == tag.removeprefix("#")
@@ -100,10 +91,6 @@ def frontmatter_has_tag(metadata: dict[str, Any], tag: str) -> bool:
     )
 
 
-def file_is_excluded_by_frontmatter(metadata: dict[str, Any], tags: Iterable[str]) -> bool:
-    return any(frontmatter_has_tag(metadata, tag) for tag in tags)
-
-
 def token_plain_text(token: dict[str, Any]) -> str:
     """Extract visible text from a mistune AST token."""
     text_parts: list[str] = []
@@ -115,15 +102,6 @@ def token_plain_text(token: dict[str, Any]) -> str:
         text_parts.append(token_plain_text(child))
 
     return "".join(text_parts)
-
-
-def parse_markdown_blocks(markdown_text: str) -> list[dict[str, Any]]:
-    """Parse markdown with mistune.
-
-    The returned tokens are used for markdown-aware helpers and as a cheap
-    syntax check while the source-preserving filters operate on original lines.
-    """
-    return MARKDOWN(markdown_text)
 
 
 def markdown_heading_level_and_title(lines: list[str], index: int) -> tuple[int, str] | None:
@@ -172,7 +150,7 @@ def remove_header_sections(markdown_text: str, header: str) -> str:
 
 def block_is_paragraph(block: str) -> bool:
     """Use mistune to determine whether a source block is a single paragraph."""
-    tokens = [token for token in parse_markdown_blocks(block) if token["type"] != "blank_line"]
+    tokens = [token for token in MARKDOWN(block) if token["type"] != "blank_line"]
     return len(tokens) == 1 and tokens[0]["type"] == "paragraph"
 
 
@@ -238,7 +216,7 @@ def remove_paragraphs_with_tag(markdown_text: str, tag: str) -> str:
 
 def filter_markdown(markdown_text: str, rules: Iterable[tuple[str, str]]) -> str:
     """Apply all configured tag and header filters to markdown body text."""
-    parse_markdown_blocks(markdown_text)
+    MARKDOWN(markdown_text)
     filtered = markdown_text
 
     for tag, header in rules:
@@ -248,10 +226,6 @@ def filter_markdown(markdown_text: str, rules: Iterable[tuple[str, str]]) -> str
     return filtered
 
 
-def load_markdown(path: Path) -> frontmatter.Post:
-    return frontmatter.loads(path.read_text(encoding="utf-8"))
-
-
 def render_markdown(post: frontmatter.Post, body: str) -> str:
     if not post.metadata:
         return body
@@ -259,27 +233,20 @@ def render_markdown(post: frontmatter.Post, body: str) -> str:
     return frontmatter.dumps(frontmatter.Post(body, **post.metadata))
 
 
-def root_folder_for(path: Path, root: Path) -> str | None:
-    relative = path.relative_to(root)
-    return relative.parts[0] if len(relative.parts) > 1 else None
-
-
 def is_in_excluded_root_folder(path: Path, root: Path) -> bool:
-    root_folder = root_folder_for(path, root)
+    relative = path.relative_to(root)
+    root_folder = relative.parts[0] if len(relative.parts) > 1 else None
     return root_folder in EXCLUDED_ROOT_FOLDERS
 
 
-def remove_stale_destination(path: Path) -> None:
-    if path.exists() and path.is_file():
-        path.unlink()
-
-
 def copy_markdown_file(source: Path, destination: Path, stats: SyncStats) -> None:
-    post = load_markdown(source)
+    post = frontmatter.loads(source.read_text(encoding="utf-8"))
     tags_to_exclude = [tag for tag, _header in FILTER_RULES]
 
-    if file_is_excluded_by_frontmatter(post.metadata, tags_to_exclude):
-        remove_stale_destination(destination)
+    if any(frontmatter_has_tag(post.metadata, tag) for tag in tags_to_exclude):
+        if destination.exists() and destination.is_file():
+            destination.unlink()
+        
         stats.skipped_by_frontmatter += 1
         return
 
