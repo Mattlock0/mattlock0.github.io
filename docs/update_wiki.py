@@ -6,11 +6,13 @@ private markdown blocks before writing files into the wiki directory.
 
 from __future__ import annotations
 
+import os
 import re
 import shutil
 from collections.abc import Iterable
 from dataclasses import dataclass
 from pathlib import Path
+import stat
 from typing import Any
 
 import frontmatter
@@ -40,7 +42,6 @@ EXCLUDED_ROOT_FOLDERS = {
     "Spiritual",
     "Workshop",
     "Writing",
-    "History & Myth",
     "Character",
 }
 
@@ -274,10 +275,13 @@ def remove_excluded_output_roots() -> None:
 
 def remove_empty_directories(root: Path) -> None:
     for directory in sorted((path for path in root.rglob("*") if path.is_dir()), reverse=True):
-        try:
-            directory.rmdir()
-        except OSError:
-            pass
+        if not any(directory.iterdir()):
+            try:
+                print(f'WARN: Removed empty folder {directory}')
+                os.chmod(directory, stat.S_IWRITE)
+                directory.rmdir()
+            except OSError:
+                pass
 
 
 def sync_vault_to_wiki() -> SyncStats:
