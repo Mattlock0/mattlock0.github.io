@@ -1,1 +1,4 @@
 public
+.idea
+.venv
+docs/__pycache__
