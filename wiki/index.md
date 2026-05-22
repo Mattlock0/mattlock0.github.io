@@ -1,7 +1,7 @@
 ---
 aliases: null
 date-created: 2025-09-16 09:22:31-04:00
-date-modified: 2025-10-25 19:09:20-04:00
+date-modified: 2026-05-22 13:59:11-04:00
 featured-ages: null
 featured-books: null
 status: null
@@ -9,18 +9,9 @@ tags: null
 type: null
 ---
 
-Welcome to this encyclopedia on Hearth! Hearth is a planet in the Arivell System populated by two Divine-Class organisms, [[The Axis Trees]], as well as [[The Architect]] and his eleven [[Moon Temples]].
+Welcome to the Hearth Encyclopedia! Hearth is a planet in the Arivell System populated by two Divine-Class organisms—[[The Axis Trees]]—as well as [[The Architect]] and eleven [[Moon Temples]].
 
 This encyclopedia only covers [[Northern Hearth]], which is where [[Peacemaker]], [[Last Among Heroes]], [[Full Moon Renegade]], and other stories take place.
-## Remarkable People of Hearth
-- [[Sai Varion|Sai Varion, Son of the Final Hero]]
-- [[Avis Freya|Avis Freya, Paragon of Dragonfall]]
-- [[Guren Voluster|Guren Voluster, The First Seat of the Knights of the Alliance]]
-- [[Xander Fulgard|Xander Fulguard, the Lord Regent of the Alliance]]
-- [[Kai Varion|Kai Varion, The Final Hero]]
-- [[The Weaver]]
-- [[Theo Varion|Theo Varion, The Spurned Son]]
->See [[Character|Characters]] for more.
 ## Primary Nations in Hearth
 - [[Regency of Arden]]
 - [[Republic of Tiereth]]
@@ -40,10 +31,18 @@ This encyclopedia only covers [[Northern Hearth]], which is where [[Peacemaker]]
 ## Other Studies
 - [[Those Who Choose]]
 - [[Knights]]
-- [[The Primordial]]
 - [[Flora]]
 - [[Fauna]]
 - [[Material|Materials]]
+## Remarkable People of Hearth
+- [[Sai Varion|Sai Varion, Son of the Final Hero]]
+- [[Avis Freya|Avis Freya, Paragon of Dragonfall]]
+- [[Guren Voluster|Guren Voluster, The First Seat of the Knights of the Alliance]]
+- [[Xander Fulgard|Xander Fulguard, the Lord Regent of the Alliance]]
+- [[Kai Varion|Kai Varion, The Final Hero]]
+- [[The Weaver]]
+- [[Theo Varion|Theo Varion, The Spurned Son]]
+>See [[Character|Characters]] for more.
 ## Map
 ```leaflet
 id: northern-hearth-map
