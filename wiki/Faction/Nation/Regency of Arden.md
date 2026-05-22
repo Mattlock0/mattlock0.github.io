@@ -1,13 +1,16 @@
 ---
-date-created: 2025-03-31T04:22:08-04:00
-date-modified: 2025-09-04T10:28:27-04:00
-aliases: [Eldenguard]
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: [Race/Elden]
+aliases:
+- Eldenguard
+date-created: 2025-03-31 04:22:08-04:00
+date-modified: 2025-09-04 10:28:27-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags:
+- race/elden
+type: null
 ---
+
 The **Regency of Arden** is a [[Nation]] in [[Northern Hearth]] ruled by the [[Arden]].
 
 The fourth continent was originally new land for many as they settled into their lives. But later, the Eldens rose to unify then under one rule. They trampled and scoured and pillaged, all for the eventual sake of unifying the land. They eventually succeeded—that is, without Threyda.

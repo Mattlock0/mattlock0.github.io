@@ -1,13 +1,14 @@
 ---
-date-created: 2025-01-11T15:37:37-05:00
-date-modified: 2025-08-24T23:31:26-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2025-01-11 15:37:37-05:00
+date-modified: 2025-08-24 23:31:26-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Hadrill** are a [[Species]] of [[Northern Hearth]]. They originated from [[Dimirius Haksven|Dimirius]] and make up the [[Arden]], [[Haltess]], and [[Arte]] cultures.
 ## Physical Features
 Hadrill are tan-skinned with thin eyebrows, sharp cheekbones, and often dark-colored eyes. Their eyes are telescopic and allow them to zoom in on things in the distance or focus on small details. Many also have long, straight-bridged noses.

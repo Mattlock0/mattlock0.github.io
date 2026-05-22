@@ -1,13 +1,14 @@
 ---
-date-created: 2025-09-13T15:17:00-04:00
-date-modified: 2025-09-13T15:17:20-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags:
+aliases: null
+date-created: 2025-09-13 15:17:00-04:00
+date-modified: 2025-09-13 15:17:20-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Machinery** is a [[Technology]] in [[Northern Hearth]].
 
 Wheels, pulleys, carts, gears, rudders, axels, oil lubricant, sails, rigging, watermills, windmills, windpumps, scale, weighted elevators, winch, cotton gin, spinning wheel, horse-drawn carriages, row boats, crank boats, rope rafts

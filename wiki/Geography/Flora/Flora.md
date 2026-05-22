@@ -1,13 +1,14 @@
 ---
-date-created: 2024-09-08T11:21:33-04:00
-date-modified: 2025-09-16T21:30:51-04:00
 aliases: []
-type: 
-status: 
-featured-ages: 
-featured-books: 
+date-created: 2024-09-08 11:21:33-04:00
+date-modified: 2025-12-28 15:53:33-05:00
+featured-ages: null
+featured-books: null
+status: null
 tags: []
+type: null
 ---
+
 ## Large Plants
 - [[Alester Pines]]
 ## Small Plants
@@ -19,3 +20,5 @@ tags: []
 - [[Purbe]]
 - [[Crelin]]
 - [[Whiteberries]]
+- [[Yalken]]
+- [[Fornelia]]

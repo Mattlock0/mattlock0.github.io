@@ -1,13 +1,14 @@
 ---
-date-created: 2025-01-11T19:48:46-05:00
-date-modified: 2025-08-24T23:31:26-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2025-01-11 19:48:46-05:00
+date-modified: 2025-09-19 11:43:23-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Rao-thoradi** is a [[Religion]] in [[Northern Hearth]].
 
 The main religion on [[Oligarchy of Baro-Sassan]], the Rao-thoradi follow the precedent set by their mythological figure [[Kavat]] and treat nature with the utmost respect. Attempt to clean up after other’s messes. See the world as a series of parallels, just as Kavat was a two-fold person struggling between physical and spiritual (himself and the Wanderer). They see him as the Great Maker who was inevitably split by his creation into preservation and destruction.

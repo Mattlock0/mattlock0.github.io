@@ -1,13 +1,14 @@
 ---
-date-created: 2024-09-18T16:55:25-04:00
-date-modified: 2025-09-16T21:49:16-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2024-09-18 16:55:25-04:00
+date-modified: 2026-05-22 13:45:15-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 For now, there are twenty-five total that can vote in the Chamber of Houses (high Houses). Each House has the voting power of its number of generations. For example Guren’s House, Voluster, has a vote worth 10 First Houses.
 ## Fulgard (Twelfth Age)
 *Traded In: Grain, Timber | As Royalty: Minting Coins, Trade Management*
@@ -26,7 +27,8 @@ Led by ?
 Led by Vegnal Prelor, a strategist and cohort of Fel Kaiser. Has funded several experiments with Sassani refugees scavenged after the Greenbel War.
 ## Kaiser (Ninth Age)
 *Trade In: Assassinations, Olive Oil, Root, Water, Medicine/Antidotes*
-Led by Fel Kaiser and well known for the potent strain of [[Liquid Vein]] in their bloodstream. His firstborn son, Leon Kaiser is the Third Seat in the Knights and has a Liquid vein. Other notable members are Alwin Kaiser, who was blessed with a [[Radiant Vein]] by [[The Weaver]].
+Led by Fel Kaiser and well known for the potent strain of [[Liquid Vein]] in their bloodstream. His firstborn son, Leon Kaiser is the Third Seat in the Knights and has a Liquid vein.
+
 ## Rowdan (Eighth Age)
 *Trade In: Cotton/Linen, Paper, Dyes, Furs, Silk, Textiles*
 A House who has Tenants. Reist’s father served them for some time.

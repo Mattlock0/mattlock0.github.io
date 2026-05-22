@@ -1,13 +1,14 @@
 ---
-date-created: 2025-03-25T17:24:43-04:00
-date-modified: 2025-09-16T21:17:56-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2025-03-25 17:24:43-04:00
+date-modified: 2025-09-16 21:17:56-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Breath Veins** are a subtype of [[State Veins]] which deal with gasses.
 
 _Catalyst: Breath/Blood Oxygen/Gases_

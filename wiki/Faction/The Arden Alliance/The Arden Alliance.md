@@ -1,13 +1,20 @@
 ---
-date-created: 2024-09-18T17:04:13-04:00
-date-modified: 2025-09-04T10:07:16-04:00
-aliases: [The Alliance, The Dominion]
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: [Group, Race/Elden, Race/Caelish, Race/Entic]
+aliases:
+- The Alliance
+- The Dominion
+date-created: 2024-09-18 17:04:13-04:00
+date-modified: 2026-05-22 13:20:04-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags:
+- group
+- race/elden
+- race/caelish
+- race/entic
+type: null
 ---
+
 **The Arden Alliance** is a [[Faction]] of [[Arden]], [[Caelish]], and [[Entic]] people based in [[Regency of Arden|Eldenguard]] and collected under [[Xander Fulgard|Lord Regent Xander]]. The other regions gathered beneath the Arden Alliance as of 981 KR are Carlen and Intica.
 
 Currently heralded as the Northern-World superpower, Eldenguard is the capital of the largest landmass, reigning over Carlen, Intica, and most of what used to be the land of Threyda. Their Lord Regent, Xander Fulguard, rules over all three provinces from [[Lothrame]], the capital of Eldenguard. All those within [[Lothrame]] are of the upper class.
@@ -27,3 +34,7 @@ The [[Undrough]] class are citizens of Arden that are not members of [[Houses of
 Most [[Caelish]] and [[Entic]] people are considered [[Undrough]].
 
 Quickly after taking over [[Carlen]], the [[Arden]] put them to work. They quickly offered those with Veins a place in [[Lothrame]], while those without they left to do manual labor across the continent.
+## Expansion & Takeover
+The Arden Dominion was begun by the Arden a warlike culture with advanced organizational and agricultural practices taken from Perholt. The rise of the Knights came about when they reached a surplus of supplies, leading to a seeking out of new lands (namely, the continent of [[Adraine]]).
+
+Wary of the natives they would find, the Arden were the first to develop swords and siege engines, ushering the world into a new era of warfare. They landed in Adraine to find a country ripe with Vein fruits—an extreme rarity in Perholt—and natives with powers they had never seen. But they were unorganized.

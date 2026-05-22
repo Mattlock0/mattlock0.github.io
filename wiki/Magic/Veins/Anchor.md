@@ -1,13 +1,14 @@
 ---
-date-created: 2025-09-07T14:15:58-04:00
-date-modified: 2025-09-16T21:10:15-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags:
+aliases: null
+date-created: 2025-09-07 14:15:58-04:00
+date-modified: 2025-09-16 21:10:15-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Anchors** are a [[Magic]] in [[Northern Hearth]] closely related to [[Veins]]. They are the precursor—before a target can be Founded or Controlled, it must be Anchored to.
 ## Source
 Anchors, like [[Veins]], are obtained hereditarily or from an [[Axis Fruit]]. All Veins have the ability to cast Anchors, but not all people with the ability to cast Anchors are Veins.

@@ -1,13 +1,14 @@
 ---
-date-created: 2025-09-13T15:14:53-04:00
-date-modified: 2025-09-13T21:00:25-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags:
+aliases: null
+date-created: 2025-09-13 15:14:53-04:00
+date-modified: 2025-09-13 21:00:25-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Food & Crops** are a [[Technology]] in [[Northern Hearth]].
 
 Fire, grain, dough, yeast, bread, salt, spices, tea, coffee, chocolate, sugar, meats (chicken/beef/fish), cornmeal, mead, beer, wine, tobacco, [[Heirofane]]

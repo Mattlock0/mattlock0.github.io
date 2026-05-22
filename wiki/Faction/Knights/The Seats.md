@@ -1,13 +1,14 @@
 ---
-date-created: 2024-09-18T16:02:52-04:00
-date-modified: 2025-09-16T21:46:37-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2024-09-18 16:02:52-04:00
+date-modified: 2025-09-16 21:46:37-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 The Seats are the seven most respected Knights in Eldenguard. While usually made up by the Lord Marshal, Sentinel, and Generals, any Knight can become a Seat. The elevation to Seat was done through a series of challenges to keep one’s position, but that became exclusive once the other Paths wished to join. Now, a representative from each Path must remain on the Seats at all times and is expected to be the highest-achieving in their Path. There are two slots reserved for the Lord Marshal and his Sentinel, four for each of the Paths, and one that continually changes hands.
 ## First Seat (Lord Marshal)
 **[[Guren Voluster]]**

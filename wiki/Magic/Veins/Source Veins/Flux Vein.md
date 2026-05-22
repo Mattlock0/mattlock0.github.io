@@ -1,13 +1,14 @@
 ---
-date-created: 2025-06-14T22:01:08-04:00
-date-modified: 2025-09-16T21:15:59-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2025-06-14 22:01:08-04:00
+date-modified: 2025-11-27 15:11:44-05:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Flux Veins** are a subset of [[Source Veins]] which deal with fundamental, flux forces.
 
 _Catalyst: Red & White Blood Cells/Flux_
@@ -33,3 +34,5 @@ Magnetic force, the Earth's electric field, and the generation of visible light.
 ### Strong Binding
 Holds the protons and neurons in atoms together, while also slightly pushing them apart.
 > Decreasing the strong binding forces in an object could turn anything into a nuclear bomb by ripping apart the protons and quarks on atoms. It would require the vein to be very close to the object, and this would be a suicide bomb.
+## Spiritual Ability
+Can sense the source of other active Veins, their forces, strength, and quality with practice. Requires an Anchor.

@@ -1,13 +1,14 @@
 ---
-date-created: 2025-03-31T04:22:08-04:00
-date-modified: 2025-09-01T18:42:06-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2025-03-31 04:22:08-04:00
+date-modified: 2026-05-22 13:44:55-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 A **Nation** is a [[Faction]] in [[Northern Hearth]] of [[Culture|Cultures]] and [[Species]] ruled by a governmental structure.
 
 Although unknown to the citizens of Hearth, the number of fully established kingdoms in their history always reverts to twelve. Historians have seen some of the signs, but coincidence is most often attributed.
@@ -25,7 +26,6 @@ Although unknown to the citizens of Hearth, the number of fully established king
 ### Axis Tree and Dragon Isles
 A set of three islands at the pole of Northern Hearth housing the Axis Tree. Unlike Earth, the Axis Tree creates a warm pole full of life, a welcome change from the cold outer rim of Hearth. However, any explorer who dares get close to the Axis Isles has, out of an intense fear or reluctance to get closer, turned around and retreated.
 
-Due to the Axis Tree’s energy, their pole is warm and full of life. However, since the cruel god the Weaver ascended, Tyragnia and Dalmiurge surge the outer two islands with Arcane Vis every ten years. They create strong lightning and fissures in the ground to stop any curious explorer from getting close.
 ### Solaria Archipelago (Solari)
 A small kingdom between Baro-Sassan and The Axis Tree. Ships traveling between the two often stop by for rest and restocking. The archipelago is a prominent business and trade location, making it easy for people to make money selling things to seafarers. Their sand is also well-known as the finest in the world. A tourist location.
 *Name Origins: Brazilian*

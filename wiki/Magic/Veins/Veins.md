@@ -1,13 +1,15 @@
 ---
-date-created: 2025-04-14T10:53:35-04:00
-date-modified: 2025-09-07T15:34:09-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: [Magic/Veins]
+aliases: null
+date-created: 2025-04-14 10:53:35-04:00
+date-modified: 2026-05-22 13:35:36-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags:
+- magic/veins
+type: null
 ---
+
 Veins are a byproduct of the Axis Singularity. Light and roots mixed to spread veins over the world, and the Caliber of [[Willpower]] and [[Fate]] bled together to create the new system of Caliber, Veins.
 
 The ability to harness one’s veins is passed down hereditarily. It is an extension of the user’s body and grows as they do. While a Vein’s power begins weak, they can grow to accomplish incredible feats.
@@ -26,7 +28,6 @@ Think of Veins as an extension of your body. It requires a level of strength to 
 ## The Choice
 The awakening point for a Vein. When under a moment which will determine their [[Fate]], persons with the Vein strand are presented with two choices by the Tree: Swear to change themselves and grow; or temper themselves and push through adversity. Their decision chooses which style of Vein they receive: Control or Founding, respectively.
 
-This creates an Oath to the Tree, causing their Fates to be intertwined. A Vein feels a constant draw to the Axis Tree. During winter when the Axis Tree’s power dwindles, they become sluggish and weak as their Vis is stripped away to keep the Tree alive.
 ## Limitations
 A Vein can only lift what their muscles are capable of. Most Veins just use the muscles in their arms, but you can use all the muscles in your body. There is some scaling for Breath, Radiant, and Wave but the rest follow it directly.
 
@@ -38,7 +39,6 @@ Veins work by temporarily granting an object Will, then directing that will to a
 
 Thus why two Anchors cannot be established to one object; if it is already full of one Vein’s Will, it cannot house another’s. Sometimes, the Will implanted within the objects leaves residual echoes, creating some things with an odd level of “intelligence”.
 
-Just as there are living materials, there are also materials which, by some means of Willed investing, are Spiritually painful—like fire is physically painful—to hold. They change from person to person, but usually things of Entropy hurt before you grow Spiritual callouses. Then, things of Elligon will hurt.
 ## Advancement of Power
 Veins must be used, like muscles, for them to be improved. Finer control, a better mass–Vis conversion ratio, and further range all come with practice. Some people are born better, but there are no heights that only some people can reach. A substantial portion of Vein training comes from working things that start as conscious decisions into natural, autonomous things.
 
@@ -51,20 +51,3 @@ A Vein will reach a point where they have overextended their Veins, all the wall
 It is widely understood that once the staining reaches your eyes or heart, your body will give one final push, then wither entirely, leaving you stunted or dead. Permanent effects of Withering include insatiable hunger/thirst, dulled/lost senses, migraines, insanity, atrophied muscles, thinning skin, heart palpitations, limbs that stop working, stunted growth, and inconsistent healing.
 ## The Rootless
 There are a group of people whose parents did not have any attunement to a Vein, or some mutation caused them not to inherit any. These are called the Rootless, and when their Vis is aggravated, their veins glow a dull red. They have no power and cannot manipulate the flow of Vis within them. There is no way for them to gain a Vein, save for ripping out another’s Veined heart and veins and implanting them in their own body. A scorned group of people thought to have little use to society.
-## Thoughts
-### Attitude in War
-Veins are highly valued by a regiment, primarily because you can't be forced to use them, and they can easily turn on their teammates if they wanted to. As such, they are paid well and protected in battle.
-
-When facing Veins, the priority objectives are such: identity Veins, identify their types, then prioritize and capture/kill.
-
-Below is a default priority list, should a commanding officer not be present:
-1. Flux (C/F)
-2. Solid (C)
-3. Radiant (C/F)
-4. Breath (C)
-5. Solid (F)
-6. Liquid (C/F)
-7. Wave (C/F)
-8. Breath (F)
-
-Flux are by far the most dangerous, as their spiritual/unstable Resonance lets them easily connect to other living creatures.

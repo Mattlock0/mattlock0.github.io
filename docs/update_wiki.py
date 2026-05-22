@@ -53,6 +53,9 @@ MARKDOWN = mistune.create_markdown(renderer="ast")
 ATX_HEADING_RE = re.compile(r"^(?P<marks>#{1,6})[ \t]+(?P<title>.*?)[ \t]*#*[ \t]*$")
 SETEXT_HEADING_RE = re.compile(r"^[ \t]*(?P<marks>=+|-+)[ \t]*$")
 FENCED_CODE_RE = re.compile(r"^[ \t]*(```|~~~)")
+SINGLE_BULLET_RE = re.compile(r"^[ \t]*[-*][ \t]+")
+OBSIDIAN_CALLOUT_RE = re.compile(r"^[ \t]*>[ \t]*\[![^\]]+\]")
+BLOCKQUOTE_RE = re.compile(r"^[ \t]*>")
 BLOCK_START_RE = re.compile(
     r"^[ \t]*(#{1,6}[ \t]+|>|[-+*][ \t]+|\d+\.[ \t]+|([-*_][ \t]*){3,}$)"
 )
@@ -176,6 +179,16 @@ def paragraph_candidate_end(lines: list[str], start: int) -> int:
     return end
 
 
+def obsidian_callout_end(lines: list[str], start: int) -> int:
+    """Find the end of an Obsidian callout block."""
+    end = start + 1
+
+    while end < len(lines) and BLOCKQUOTE_RE.match(lines[end]):
+        end += 1
+
+    return end
+
+
 def remove_paragraphs_with_tag(markdown_text: str, tag: str) -> str:
     """Remove full markdown paragraphs containing a tag."""
     lines = markdown_text.splitlines(keepends=True)
@@ -188,6 +201,27 @@ def remove_paragraphs_with_tag(markdown_text: str, tag: str) -> str:
 
         if FENCED_CODE_RE.match(line):
             in_fenced_code = not in_fenced_code
+            kept_lines.append(line)
+            index += 1
+            continue
+
+        if OBSIDIAN_CALLOUT_RE.match(line):
+            end = obsidian_callout_end(lines, index)
+            callout = "".join(lines[index:end])
+
+            if markdown_text_contains_tag(callout, tag):
+                index = end
+                continue
+
+            kept_lines.extend(lines[index:end])
+            index = end
+            continue
+
+        if SINGLE_BULLET_RE.match(line):
+            if markdown_text_contains_tag(line, tag):
+                index += 1
+                continue
+
             kept_lines.append(line)
             index += 1
             continue

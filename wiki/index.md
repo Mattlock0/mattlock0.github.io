@@ -1,16 +1,17 @@
 ---
-date-created: 2025-09-16T09:22:31-04:00
-date-modified: 2025-09-16T21:42:45-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags:
+aliases: null
+date-created: 2025-09-16 09:22:31-04:00
+date-modified: 2025-10-25 19:09:20-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 Welcome to this encyclopedia on Hearth! Hearth is a planet in the Arivell System populated by two Divine-Class organisms, [[The Axis Trees]], as well as [[The Architect]] and his eleven [[Moon Temples]].
 
-This encyclopedia only covers [[Northern Hearth]], which is where [[Peacemaker|Peacemaker]], [[Last Among Heroes|Last Among Heroes]], [[Full Moon Renegade]], and other stories take place.
+This encyclopedia only covers [[Northern Hearth]], which is where [[Peacemaker]], [[Last Among Heroes]], [[Full Moon Renegade]], and other stories take place.
 ## Remarkable People of Hearth
 - [[Sai Varion|Sai Varion, Son of the Final Hero]]
 - [[Avis Freya|Avis Freya, Paragon of Dragonfall]]
@@ -37,7 +38,6 @@ This encyclopedia only covers [[Northern Hearth]], which is where [[Peacemaker|P
 - [[Willpower|Willpower, The Dead System]]
 >See [[Magic]] for more.
 ## Other Studies
-To learn more about Hearth, see [[Age]] and the [[History of Seradese]]. Other informative articles:
 - [[Those Who Choose]]
 - [[Knights]]
 - [[The Primordial]]

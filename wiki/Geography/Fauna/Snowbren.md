@@ -1,13 +1,14 @@
 ---
-date-created: 2025-01-11T19:16:09-05:00
-date-modified: 2025-08-24T23:31:27-04:00
 aliases: []
-type: 
-status: 
-featured-ages: 
-featured-books: 
+date-created: 2025-01-11 19:16:09-05:00
+date-modified: 2025-08-24 23:31:27-04:00
+featured-ages: null
+featured-books: null
+status: null
 tags: []
+type: null
 ---
+
 **Snowbren** are Mammal [[Fauna]] that can be found in [[Northern Hearth]].
 
 The smaller, less intelligent cousins of the [[Bren]].

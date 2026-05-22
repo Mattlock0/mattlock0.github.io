@@ -1,13 +1,16 @@
 ---
-date-created: 2024-09-17T18:11:41-04:00
-date-modified: 2025-08-24T23:31:25-04:00
 aliases: []
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: [Group, Race/Elden]
+date-created: 2024-09-17 18:11:41-04:00
+date-modified: 2025-12-28 12:58:11-05:00
+featured-ages: null
+featured-books: null
+status: null
+tags:
+- group
+- race/elden
+type: null
 ---
+
 The [[Knights|Knights]] are an [[Arden]] [[Faction]] originating in [[Regency of Arden|Eldenguard]] that governs and polices [[The Arden Alliance]]. They are ruled over first by [[Xander Fulgard|Lord Regent Xander]], and then by [[Guren Voluster|Lord Marshal Guren]].
 
 The Knights of the Alliance are a group of soldiers, ambassadors, nobles, and researchers that are organized under one umbrella of command. While being structured like the military, the Knights essentially make up the acting government of the Arden Alliance.
@@ -19,8 +22,6 @@ They were first formed as a group called the Knights Twelve sworn to the Lord Re
 A Knight’s allegiance is symbolized by a crest, which they must always wear on their person. It also serves as their permit and badge of identification. Falsifying one of these is considered a capital crime.
 
 There are individual crests for office and for specific Guilds, but the crest of a Knight is that of a hexagon split in three: one with a sword, another with a book, and the third with a flag.
-### Path Icons
-Each path also has its own designated icon, all including red feathers. Generals have straight red feathers adorning their pauldrons, creating a sort of mantle over their shoulders. Champions have a metal red feather embedded into their ceremonial swords. Savants have flat caps with a red feather attached on the back.
 ## Standing Army
 Among the three unified regions of Arden, there are nearly 200,000 crested Knights. They mostly come from Eldenguard, and some are pulled from Carlen, while a small group were taken from Intica. They are split by land size and a dash of prejudice, where 89k (45%) reside in Eldenguard, 69k (35%) reside in Carlen, and 39k (20%) reside in Intica. The Entics do not take kindly to Knights inhabiting their land and keep most of them out.
 
@@ -30,7 +31,7 @@ Knights are responsible primarily to the Lord Regent. They protect him at all co
 
 Their duties include keeping peace in the three regions of Arden, settling disputes between civilians, being Honorbearers for promises and “oaths” (such as wedding proposals and trade deals), though these are not Axis-bound ones. They may also be called to recruit more Knights, be a stand-in House representative, seek out and “recruit” more Veins, guard Arden towns from invasion, and spy/gather information in other kingdoms.
 
-Higher Knights in the system—namely second ranked paths and above—are expected and required to be the foremost leader in their House or are the upcoming leader if their parents have not yet passed on the mantle. Other Knights, when not taken by their standard duties, may be called upon to represent another House and master their Tenants. This duty is not usually given to a high-standing Knight.\
+Higher Knights in the system—namely second ranked paths and above—are expected and required to be the foremost leader in their House or are the upcoming leader if their parents have not yet passed on the mantle. Other Knights, when not taken by their standard duties, may be called upon to represent another House and master their Tenants. This duty is not usually given to a high-standing Knight.
 ### Full Individual List
 - Keeping the peace (capturing outlaws, settling disputes)
 - Guard duty for Houses and factories
@@ -49,9 +50,15 @@ Higher Knights in the system—namely second ranked paths and above—are expect
 ## Terms of Battle
 1. When a fight to the death is issued, both fighters give the other their true name. In this way, the name of he who loses is not forgotten, but engraved in the victor’s heart. These battles are known as “true battles,” and serve as a Contract born between either warrior to see it through to the end.
 2. Upon being victorious, the winner sticks his opponent’s weapon into the ground, blade first, as a symbol of their battle and pride. It is taboo to take a warrior’s blade from them, even in death or defeat.
-3. Scars are an honorary part of battle. Covering them up is an act of cowardice.
-4. Those who interrupt a true battle between warriors cast shame on their honor.
+3. Scars are an honorary part of battle. Covering them up is an act of cowardice.
+4. Those who interrupt a true battle between warriors cast shame on their honor.
 ## Guilds
 Most Knights are not on battle duty. They have guard positions spread across the Alliance and take up their own projects. After a House lobbied to have access to a group of Knights for the construction of their Hold, the Knights later turned around and lobbied for the ability to form Guilds, groups which could take on their own official projects with Knight funding.
 
 Guilds run somewhat autonomously, but are not outside of Knight law.
+## Notes
+Honorifics: Don/Dan, Ven/Van, Pel, Tem, Ben, Carpe
+
+There is a tree which is a symbol of hope in a village. The Knights execute people by hanging them from it. There are smaller rebel groups (besides Suppression) that get squashed, and even smaller groups claiming to be Suppression are crushed.
+
+The Knights snatch Veins from undrough villages in the night and train them up as Knights through rigorous brainwashing.

@@ -1,13 +1,14 @@
 ---
-date-created: 2025-09-13T15:18:00-04:00
-date-modified: 2025-09-13T15:24:50-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags:
+aliases: null
+date-created: 2025-09-13 15:18:00-04:00
+date-modified: 2026-05-22 13:52:06-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Veinology** is a [[Technology]] in [[Northern Hearth]].
 
 Steamguns, cortan glue, slate chests, cornerpieces (singular Solid tool for picking up things), [[Anchor Plate]] (self-locking armor that allows a vein to stand while using their powers)
@@ -21,4 +22,3 @@ Solid Founders carry a chest of ice with them and throw chunks into the ocean, t
 ### Node Paths
 Eventually, they discover how to use Root Nodes to create a system of ice paths across the ocean that activate when fed Vis.
 ## Undiscovered
-Root batteries, Vis circuits, [[Pherinol|bonerot]] knives, flux-powered flight, slate infusion/cores

@@ -1,13 +1,14 @@
 ---
-date-created: 2025-01-11T15:37:54-05:00
-date-modified: 2025-08-30T11:53:16-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2025-01-11 15:37:54-05:00
+date-modified: 2025-08-30 11:53:16-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Sennti** are a [[Species]] of [[Northern Hearth]]. They originated from [[Riddem Luther|Riddem]] and make up the [[Sassani]] and [[Dreyyn]] cultures.
 ## Physical Features
 Sennti have a range of darker skin tones from light brown like tanned leather to black, like coffee. Sennti usually have shorter lifespans in exchange for not having to sleep as long and having tougher nails and hair.

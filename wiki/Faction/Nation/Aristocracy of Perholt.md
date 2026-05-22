@@ -1,13 +1,14 @@
 ---
-date-created: 2025-03-31T04:22:08-04:00
-date-modified: 2025-08-24T23:31:26-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2025-03-31 04:22:08-04:00
+date-modified: 2025-08-24 23:31:26-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 The most neutral of any country and kingdom. Avoids war like the plague. They refuse alliances with any other state in fear of being caught in a war with another country over it. While not having the most lucrative exports, they do have a mining colony in the southern part of their kingdom. Also, there are ruins in the northern area of their province, referred to as the Snake’s Head. The ruins contain ancient technology left by an advanced race known as the [[Ancient|Ancients]].
 ## Government
 Perholt is ruled by an Aristocracy.

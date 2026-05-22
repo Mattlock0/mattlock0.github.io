@@ -1,13 +1,14 @@
 ---
-date-created: 2025-03-25T17:24:17-04:00
-date-modified: 2025-09-16T21:16:06-04:00
-aliases: 
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: 
+aliases: null
+date-created: 2025-03-25 17:24:17-04:00
+date-modified: 2025-09-16 21:16:06-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags: null
+type: null
 ---
+
 **Radiant Veins** are a subtype of [[Source Veins]] which deal with photons.
 
 _Catalyst: Eyesight/Body Heat_

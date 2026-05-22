@@ -1,13 +1,16 @@
 ---
-date-created: 2024-09-18T16:52:59-04:00
-date-modified: 2025-08-24T23:31:25-04:00
-aliases: [The Houses]
-type: 
-status: 
-featured-ages: 
-featured-books: 
-tags: [Race/Elden]
+aliases:
+- The Houses
+date-created: 2024-09-18 16:52:59-04:00
+date-modified: 2025-09-19 11:36:01-04:00
+featured-ages: null
+featured-books: null
+status: null
+tags:
+- race/elden
+type: null
 ---
+
 As heritage is held in such high regard in the Alliance, many families have formed “Houses”: conglomerates of families who intermarry and share legacies. If you’re a part of a large, wealthy, and well-renowned House, your power—even in legal matters—greatly increases. Many of the top families in Eldenguard are heads of Houses, competing against each other for a shot at true royalty: Regency. When a couple is married in Eldenguard, they take the family name with the longest standing heritage. If a son marries up, his House is combined into his wife’s. This is rare between powerful Houses. Only daughters are married up.
 
 Most Houses have a “foothold”—often called a Hold for that reason—in Eldenguard while their own territories are elsewhere. They trade in different goods because they have land in other parts of Carlen and Intica. Usually, only the head family lives in the Elden Hold while the weaker families reside in the outer territory.
