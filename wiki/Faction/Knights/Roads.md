@@ -1,7 +1,7 @@
 ---
 aliases: null
 date-created: 2024-09-18 15:43:10-04:00
-date-modified: 2025-12-28 12:57:59-05:00
+date-modified: 2026-05-23 07:43:11-04:00
 featured-ages: null
 featured-books: null
 status: null
@@ -55,14 +55,3 @@ Knights who have shown leadership potential and wish to serve a higher function 
 Granted authority over an entire region of Arden as well as the authority over corporals and, in times of crisis, champions. There are five: two for Eldenguard, two for Carlen, and one for Intica. They report directly to the Lord Marshal but are given rights to make major decisions when fitting.
 
 Commander generals are responsible for one division, consisting anywhere from 2,000 Knights to 30,000. Strictly assigned via region. There may be five within the Knights at any given time. There are two assigned to Eldenguard, two to Carlen, and one to Intica.
-
-(Potential Names: Tower, Paragon, Paladin, Warden, Sentry)
-## Acquisitor Path
-### Delegate
-The first step to becoming an acquisitor. Delegates are usually hired into a captain’s role publicly and given a small team to work with but are given specific duties and travel opportunities that require them to strengthen their intercultural abilities and seep into the lives of other kingdoms.
-### Superior
-A delegate is never elevated to superior publicly, but when they receive the promotion, they are given the title of corporal. As corporals, they have the option for more administrative work, which gives them time to dedicate to scouring maps, reading up on the cultures of Northern Hearth, and sharpening their skills of observation and analysis. Many superiors spend their time outside of Eldenguard.
-### Acquisitor
-Acquisitors have the political training of an ambassador and the intent of a spy. They are sent not only throughout Arden but to other kingdoms to collect information and report it back to the Lord Regent. They are responsible for tracking down new recruits, learning advancements in magic and technology that other kingdoms have made, and plucking secrets from their people. An unacknowledged path in the Knights; they are usually “Commanders”.
-
-By the time a Knight has become an Acquisitor, they have surpassed their public perception and integrated into their work entirely. Most are known to be out of the country for an extended period, or are simply absorbed in their work, though they may be anywhere at any time. They return to Eldenguard intermittently with the information they have acquired, then return to whichever field they have been sent into. In outer circles, the Acquisitors are known as a “guild” called the Regent’s Own and serve both as bodyguards in times of need and spies for him whenever he needs them to track down information.

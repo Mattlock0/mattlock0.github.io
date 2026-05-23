@@ -6,7 +6,7 @@ featured-ages: null
 featured-books: null
 status: null
 tags:
-- group
+- faction
 - race/elden
 type: null
 ---

@@ -1,7 +1,7 @@
 ---
 aliases: null
 date-created: 2025-03-31 04:22:08-04:00
-date-modified: 2026-05-22 13:44:55-04:00
+date-modified: 2026-05-23 07:41:26-04:00
 featured-ages: null
 featured-books: null
 status: null
@@ -11,7 +11,6 @@ type: null
 
 A **Nation** is a [[Faction]] in [[Northern Hearth]] of [[Culture|Cultures]] and [[Species]] ruled by a governmental structure.
 
-Although unknown to the citizens of Hearth, the number of fully established kingdoms in their history always reverts to twelve. Historians have seen some of the signs, but coincidence is most often attributed.
 ## Major Nations
 - The [[Regency of Arden]]
 - The [[Timocracy of Threyda]]
