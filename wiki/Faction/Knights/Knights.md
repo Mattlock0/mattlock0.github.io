@@ -56,9 +56,3 @@ Higher Knights in the system—namely second ranked paths and above—are expect
 Most Knights are not on battle duty. They have guard positions spread across the Alliance and take up their own projects. After a House lobbied to have access to a group of Knights for the construction of their Hold, the Knights later turned around and lobbied for the ability to form Guilds, groups which could take on their own official projects with Knight funding.
 
 Guilds run somewhat autonomously, but are not outside of Knight law.
-## Notes
-Honorifics: Don/Dan, Ven/Van, Pel, Tem, Ben, Carpe
-
-There is a tree which is a symbol of hope in a village. The Knights execute people by hanging them from it. There are smaller rebel groups (besides Suppression) that get squashed, and even smaller groups claiming to be Suppression are crushed.
-
-The Knights snatch Veins from undrough villages in the night and train them up as Knights through rigorous brainwashing.
