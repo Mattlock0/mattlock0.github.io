@@ -58,7 +58,5 @@ extra_javascript:
 
 plugins:
   - search
-  - ezlinks:
-      wikilinks: true
-  # - roamlinks
+  - permalinks # using my personal roamlinks fork
   # - tooltipster-links
