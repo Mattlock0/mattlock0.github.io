@@ -42,7 +42,6 @@ EXCLUDED_ROOT_FOLDERS = {
     "Spiritual",
     "Workshop",
     "Writing",
-    "Character",
 }
 
 FRONTMATTER_TAG_KEYS = {"tag", "tags"}

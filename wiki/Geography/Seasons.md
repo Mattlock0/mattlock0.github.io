@@ -1,7 +1,7 @@
 ---
 aliases: []
 date-created: 2024-01-30 14:40:26-05:00
-date-modified: 2026-05-22 13:31:06-04:00
+date-modified: 2026-05-25 17:03:12-04:00
 featured-ages: null
 featured-books: null
 status: null
@@ -12,7 +12,7 @@ type: null
 ## Season of Blue
 Spring in our world. Lasts for 90 days. Leaves begin to grow back on the Tree, forcing out the chunks of ice formed in the Season of White. They melt under a new sun, forming rain which falls to Hearth. Thus the name of the season.
 ## Season of Green
-Summer in our world. Lasts for 90 days. [[The Axis Trees]] are vibrant and full of life. Similarly, humans with Veins are filled to the brim with energy, having fully recovered from the Drought in the Season of White.
+Summer in our world. Lasts for 90 days. [[The Axis Tree]] is vibrant and full of life. Similarly, humans with Veins are filled to the brim with energy, having fully recovered from the Drought in the Season of White.
 ## Season of Red
 Autumn in our world. Lasts for 90 days. The leaves of the Tree turn orange and red, thus the name of the season. In this season, leaves go through a metamorphosis, a quarter of them falling and the rest beginning to crystalize.
 ## Season of White

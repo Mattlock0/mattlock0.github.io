@@ -17,6 +17,6 @@ Tebrene also have large lungs which can heat up the air they breathe in, allowin
 ## Spiritual Features
 Tebrene are born with a Nature of [[Rally]] and [[Protect]] and an affinity for [[State Veins]]. Tebrene are a naturally social people, seeking out one another and fighting in pairs or trios. Their breathing syncs up with others naturally, even while conscious.
 
-Being closely related to the [[Madrian]] race, they also have an inherent connection to the world, but it is more to the Earth than to [[the Axis Trees]]. Some have very minor [[Solid Vein]]s that can hold together breaking or crumbling objects.
+Being closely related to the [[Madrian]] race, they also have an inherent connection to the world, but it is more to the Earth than to [[The Axis Tree]]. Some have very minor [[Solid Vein]]s that can hold together breaking or crumbling objects.
 
 Plants and crops respond to their touch, folding to give them cover and growing under their tender, caring hands.

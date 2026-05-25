@@ -11,4 +11,4 @@ type: null
 
 **Fetterfly** are Insect [[Fauna]] that can be found in [[Northern Hearth]].
 
-Butterfly-like insects which originate from the [[The Axis Trees|Axis Trees]]. Seen as a sign of bad luck. They have intricate gemstone-colored wings which glitter in the sunlight. At seemingly random times, the color in their wings dulls.
+Butterfly-like insects which originate from the [[The Axis Tree|Axis Trees]]. Seen as a sign of bad luck. They have intricate gemstone-colored wings which glitter in the sunlight. At seemingly random times, the color in their wings dulls.

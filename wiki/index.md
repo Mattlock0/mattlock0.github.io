@@ -1,7 +1,7 @@
 ---
 aliases: null
 date-created: 2025-09-16 09:22:31-04:00
-date-modified: 2026-05-22 13:59:11-04:00
+date-modified: 2026-05-25 17:02:57-04:00
 featured-ages: null
 featured-books: null
 status: null
@@ -9,7 +9,7 @@ tags: null
 type: null
 ---
 
-Welcome to the Hearth Encyclopedia! Hearth is a planet in the Arivell System populated by two Divine-Class organisms—[[The Axis Trees]]—as well as [[The Architect]] and eleven [[Moon Temples]].
+Welcome to the Hearth Encyclopedia! Hearth is a planet in the Arivell System populated by a Divine-Class organism—[[The Axis Tree]]—as well as [[The Architect]] and eleven [[Moon Temples]].
 
 This encyclopedia only covers [[Northern Hearth]], which is where [[Peacemaker]], [[Last Among Heroes]], [[Full Moon Renegade]], and other stories take place.
 ## Primary Nations in Hearth
@@ -19,7 +19,7 @@ This encyclopedia only covers [[Northern Hearth]], which is where [[Peacemaker]]
 - [[Oligarchy of Baro-Sassan]]
 >See [[Nation|Nations]] for more.
 ## Titular Locations in Hearth
-- [[The Axis Trees|The Axis Tree]]
+- [[The Axis Tree]]
 - [[Lothrame|Lothrame, The Capital of Arden]]
 - [[Rakuken|Rakuken, The Capital of Tiereth]]
 >See [[City|Cities]] and [[Continent|Continents]] for more.

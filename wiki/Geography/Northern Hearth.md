@@ -11,7 +11,7 @@ tags: []
 type: administration
 ---
 
-**Northern Hearth** is the northern hemisphere of the planet [[Hearth]] that exists around the Northern [[The Axis Trees|Axis Tree]]. It is comprised of several continents, which are inhabited by races all born from the fallout of the [[Conflux]].
+**Northern Hearth** is the northern hemisphere of the planet [[Hearth]] that exists around the Northern [[The Axis Tree|Axis Tree]]. It is comprised of several continents, which are inhabited by races all born from the fallout of the [[Conflux]].
 
 Northern Hearth is currently in its late medieval/early Renaissance period, and as such is on the brink of the an industrial revolution. However, it is restrained by [[the Weaver]] and his grip on civilization, which is being combatted by the [[Varion Family]].
 
