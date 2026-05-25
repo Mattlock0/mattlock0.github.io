@@ -13,7 +13,6 @@ The **Caelish** are a [[Culture]] in [[Northern Hearth]] which reside mostly in 
 
 Caelish are pale white because they don't have the time or money to spend bathing in the sun. Eldenguard had access to Fate and pursued Dominion early, so it allowed them to advance quicker than the Caelish and now they have tanner skin *and* control of their continent.
 
-> So tan, in fact, that a Sassani can go undetected in their ranks. #secret
 
 
 
